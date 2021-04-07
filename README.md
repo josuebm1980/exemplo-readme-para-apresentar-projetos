@@ -23,11 +23,11 @@ aperfeiçoar as minhas noções de WEB DESIGN.
 
 ## Design :memo:
 
-O Desing desse projeto está no figma <a href="https://www.figma.com/proto/DKZQ1diVczOUDrB3N8unti/bikcraft-design?node-id=0%3A1">Design</a>
+O Desing desse projeto está no figma <a href="">Design</a>
 
 ## Sobre :memo:
 
-Esse projeto foi construido em um dos cursos da <a href="https://www.origamid.com">Origamid</a> totalmente criado com HTML5 e CSS3.
+Esse projeto foi construido em um dos cursos da <a href="">aqui</a> totalmente criado com HTML5 e CSS3.
 
 ## Demonstração :computer:
 
